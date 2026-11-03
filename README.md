@@ -31,4 +31,4 @@ GitHub：[liuyumeng821](https://github.com/liuyumeng821) · 邮箱：yumengliu39
 
 ## 项目简历文本
 
-详见 [项目简历](PROJECT_RESUME.md)，可按比赛方向选取 2–3 个项目介绍。仓库链接为预定地址，首次发布前不可作为已上线链接提交。
+详见 [项目简历](PROJECT_RESUME.md)，可按比赛方向选取 2–3 个项目介绍。以上仓库链接均已公开，可直接用于报名材料。
