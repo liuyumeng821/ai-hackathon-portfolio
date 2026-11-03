@@ -12,10 +12,12 @@ GitHub：[liuyumeng821](https://github.com/liuyumeng821) · 邮箱：yumengliu39
 | [它的一天 · OneDay](https://github.com/liuyumeng821/oneday) | Kotlin · Jetpack Compose · Insta360 SDK · FastAPI · SQLAlchemy · Alembic · VLM | Android 设备连接代码与后端 MVP；真实相机联调、真实 VLM 效果、原片验证及视频导出仍待验收或实现。 |
 | [干饭盲盒 · Lunch Picker](https://github.com/liuyumeng821/lunch-picker) | Python · Flask · REST API · 高德 POI · HTML · Docker/Nginx | 提供 Web 页面、HTTP API、CLI 与容器配置；高德在线搜索需自行配置 Key。当前没有大模型调用或自主规划循环。 |
 | [暗语森林 · WhisperWood](https://github.com/liuyumeng821/whisperwood) | JavaScript · MediaPipe Tasks Vision · Canvas · Web Audio | 包含手部识别、轨迹与组合动作判断、关卡规则、视觉音效及路演材料。对手策略和文案基于本地规则，不应描述为大模型推理。 |
+| [Beauty Twin · AI 随身妆容顾问](https://github.com/liuyumeng821/beauty-twin) | React · TypeScript · MediaPipe · Canvas · Web Bluetooth | 天猫 AI 黑客松参赛项目；提供演示视频和在线体验，硬件与线上服务本次未复验。 |
 | [同频：方案探索](concepts/tongpin/README.md) | 人宠互动影像、任务条件与视觉复核 | 仅方案，未单独提供代码 |
 
 ## 如何快速了解我
 
+- 看影像与软硬件体验：Beauty Twin，浏览器试妆与实物贴片协同。
 - 看交互原型：暗语森林，浏览器启动，需摄像头与模型下载。
 - 看系统工程：向星而行，识别状态机、协议桥接与幂等存档。
 - 看 AI 工作流：它的一天，候选复核、版本化任务与反馈闭环。
@@ -25,7 +27,7 @@ GitHub：[liuyumeng821](https://github.com/liuyumeng821) · 邮箱：yumengliu39
 
 ## 比赛介绍（可直接使用）
 
-我是 liuyumeng821，关注 AI 视觉交互和影像产品。我开发了浏览器手势游戏、体感游戏接入系统、宠物影像工作流及午餐决策工具，覆盖前端体验、后端服务、实时通信与设备接入。希望在黑客松中把模型能力与具体使用场景结合，完成可验证的演示闭环。
+我是 liuyumeng821，关注 AI 视觉交互和影像产品。我开发了浏览器手势游戏、体感游戏接入系统、宠物影像工作流、实时试妆及午餐决策工具，覆盖前端体验、后端服务、实时通信与设备接入。希望在黑客松中把模型能力与具体使用场景结合，完成可验证的演示闭环。
 
 ## 项目简历文本
 
