@@ -10,8 +10,8 @@
 
 | 项目 | 产品介绍（用户 · 场景 · 解决方式 · 差异化优势） | 查看 |
 |---|---|---|
-| **01 向星而行 Starbound** | 面向想用身体参与游戏的玩家，在居家体感冒险中用摄像头识别动作、驱动关卡反馈并保存进度，解决传统按键交互代入感弱、动作反馈不连续的问题；优势是把动作确认、游戏状态和断线恢复串成可追踪的体验链路。 | [项目详情](https://github.com/liuyumeng821/star-journey) |
-| **02 Beauty Twin** | 面向美妆新手，在选妆和实际化妆时用本人实时试妆、已有产品匹配与分步跟练，解决“看上去适合却不会画”的断层；优势是从预览到动手操作形成连续路径。 | [在线体验](https://babelbeast.com/beauty-twin) · [项目详情](https://github.com/liuyumeng821/beauty-twin) |
+| **01 向星而行 Starbound** | 面向想用身体参与游戏的玩家，在居家体感冒险中用摄像头识别动作、驱动关卡反馈并保存进度，解决传统按键交互代入感弱、动作反馈不连续的问题；优势是把动作确认、游戏状态和断线恢复串成可追踪的体验链路。 | [演示视频](https://github.com/liuyumeng821/star-journey/releases/download/demo-video-v1/default.mp4) · [项目详情](https://github.com/liuyumeng821/star-journey) |
+| **02 Beauty Twin** | 面向美妆新手，在选妆和实际化妆时用本人实时试妆、已有产品匹配与分步跟练，解决“看上去适合却不会画”的断层；优势是从预览到动手操作形成连续路径。 | [在线体验](https://babelbeast.com/beauty-twin) · [演示视频](https://github.com/liuyumeng821/beauty-twin/blob/main/docs/Beauty-Twin-产品体验视频.mp4) · [项目详情](https://github.com/liuyumeng821/beauty-twin) |
 | **03 ChemFlow AI** | 面向化工工程学习者与方案设计者，在多阶段工艺设计中用工作流串起设计基准、流程模拟、经济和安全评估，解决跨工具整理与结论难追溯的问题；优势是显式标注数据来源、求解状态和人工确认边界。 | [项目详情](https://github.com/liuyumeng821/chemflow-ai) |
 | **04 暗语森林 WhisperWood** | 面向喜欢互动叙事的玩家，在浏览器游戏中用摄像头识别手势与运动轨迹来施法，解决点击操作与故事世界脱节的问题；优势是把静态手势、动态轨迹和即时战斗反馈结合成可学习的规则。 | [项目详情](https://github.com/liuyumeng821/whisperwood) |
 | **05 研伴** | 面向理工科研究生、博士后与青年科研人员，在持续检索、阅读和写作的科研场景中，用项目上下文与 Paper Memory 串起灵感启思、文献检索、深度阅读、记忆索引、论文写作和评审修改，解决资料分散与证据难追溯的问题；优势是六模块共享上下文，并区分原文、分析、假设与用户判断。 | [项目详情](https://github.com/liuyumeng821/yanban) · [PRD](https://github.com/liuyumeng821/yanban/blob/main/docs/PRD.md) |
