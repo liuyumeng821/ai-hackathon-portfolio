@@ -14,7 +14,7 @@
 | **02 Beauty Twin** | 面向美妆新手，在选妆和实际化妆时用本人实时试妆、已有产品匹配与分步跟练，解决“看上去适合却不会画”的断层；优势是从预览到动手操作形成连续路径。 | [在线体验](https://babelbeast.com/beauty-twin) · [项目详情](https://github.com/liuyumeng821/beauty-twin) |
 | **03 ChemFlow AI** | 面向化工工程学习者与方案设计者，在多阶段工艺设计中用工作流串起设计基准、流程模拟、经济和安全评估，解决跨工具整理与结论难追溯的问题；优势是显式标注数据来源、求解状态和人工确认边界。 | [项目详情](https://github.com/liuyumeng821/chemflow-ai) |
 | **04 暗语森林 WhisperWood** | 面向喜欢互动叙事的玩家，在浏览器游戏中用摄像头识别手势与运动轨迹来施法，解决点击操作与故事世界脱节的问题；优势是把静态手势、动态轨迹和即时战斗反馈结合成可学习的规则。 | [项目详情](https://github.com/liuyumeng821/whisperwood) |
-| **05 研伴** | 面向长期处理文献与论文的研究者，在个人科研项目中用项目记忆和 Paper Memory 串起选题、检索、精读、写作与评审，解决资料分散和上下文反复重建的问题；优势是五阶段共享上下文、保留可回溯的材料链路。 | [项目详情](https://github.com/liuyumeng821/yanban) |
+| **05 研伴** | 面向理工科研究生、博士后与青年科研人员，在持续检索、阅读和写作的科研场景中，用项目上下文与 Paper Memory 串起灵感启思、文献检索、深度阅读、记忆索引、论文写作和评审修改，解决资料分散与证据难追溯的问题；优势是六模块共享上下文，并区分原文、分析、假设与用户判断。 | [项目详情](https://github.com/liuyumeng821/yanban) · [PRD](https://github.com/liuyumeng821/yanban/blob/main/docs/PRD.md) |
 | **06 它的一天 OneDay** | 面向宠物主人和拍摄者，在记录宠物日常时用拍摄任务组织候选事件与人工复核，解决回看长视频找素材费时的问题；优势是把拍摄意图、候选证据和最终选择分开管理。 | [项目详情](https://github.com/liuyumeng821/oneday) |
 | **07 干饭盲盒 Lunch Picker** | 面向午餐选择困难的个人和小团队，在日常选餐时用候选店管理、筛选、抽签和历史记录减少反复讨论；优势是把即时随机决策与可复用的选择记录结合起来。 | [项目详情](https://github.com/liuyumeng821/lunch-picker) |
 | **08 同频** | 面向想记录人宠互动的人群，在计划拍摄时用任务条件和视觉复核方案明确拍什么、如何筛素材，解决拍摄目标模糊与后期筛选负担；优势是将拍摄任务和复核标准一起设计。**目前为产品方案。** | [方案说明](concepts/tongpin/README.md) |
@@ -53,11 +53,11 @@
 
 ### 05 · 研伴
 
-*仓库与封面正在同步。*
+<a href="https://github.com/liuyumeng821/yanban"><img src="https://raw.githubusercontent.com/liuyumeng821/yanban/main/public/og.png" alt="研伴科研工作流封面" width="620"></a>
 
-**一句话定位：** 面向持续处理文献和论文的研究者，把选题、检索、精读、写作和评审修改连接成保留项目上下文的个人工作流。
+**一句话定位：** 面向理工科研究生、博士后与青年科研人员，以对话为入口、研究项目为上下文，将问题、文献、证据、判断和论文组织成可追溯的科研工作流。
 
-**产品设计重点：** 我根据自己的科研日常独立设计开发，以项目与 Paper Memory 串起五个节点，让资料、证据和草稿可回溯。 项目仓库与本地运行说明正在同步
+**产品设计重点：** 我根据自己的科研日常独立设计开发，以项目与 Paper Memory 串起六个可独立进入的模块，并明确区分论文原文、外部事实、Agent 分析、研究假设与用户批注。 [项目详情与本地运行](https://github.com/liuyumeng821/yanban) · [完整 PRD](https://github.com/liuyumeng821/yanban/blob/main/docs/PRD.md)
 
 
 ## 我希望展示的产品能力
