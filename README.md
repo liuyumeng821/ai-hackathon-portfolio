@@ -25,7 +25,7 @@
 
 **一句话定位：** 面向希望用身体参与游戏的玩家，把摄像头动作识别、即时反馈和关卡存档连接为体感冒险体验。
 
-**产品设计重点：** 用“动作输入→识别确认→游戏反馈→进度保存”串起完整体验；对识别误触、断线和重复事件设计状态处理。 [项目详情](https://github.com/liuyumeng821/star-journey) · [演示视频](https://github.com/liuyumeng821/star-journey/releases/download/demo-video-v1/star-journey-demo.mp4) · [产品 PPT](https://github.com/liuyumeng821/star-journey/blob/main/docs/starbound-presentation.pptx) · [角色与场景概念图](https://github.com/liuyumeng821/star-journey#视觉与概念图)
+**产品设计重点：** 用“动作输入→识别确认→游戏反馈→进度保存”串起完整体验；对识别误触、断线和重复事件设计状态处理。 [项目详情](https://github.com/liuyumeng821/star-journey) · [演示视频](https://github.com/liuyumeng821/star-journey/releases/download/demo-video-v1/default.mp4) · [产品 PPT](https://github.com/liuyumeng821/star-journey/blob/main/docs/starbound-presentation.pptx) · [角色与场景概念图](https://github.com/liuyumeng821/star-journey#视觉与概念图)
 
 ### 02 · Beauty Twin
 
