@@ -25,7 +25,7 @@
 
 **一句话定位：** 面向希望用身体参与游戏的玩家，把摄像头动作识别、即时反馈和关卡存档连接为体感冒险体验。
 
-**产品设计重点：** 用“动作输入→识别确认→游戏反馈→进度保存”串起完整体验；对识别误触、断线和重复事件设计状态处理。 [项目详情](https://github.com/liuyumeng821/star-journey) · 演示视频正在同步 · [产品 PPT](https://github.com/liuyumeng821/star-journey/blob/main/docs/starbound-presentation.pptx)
+**产品设计重点：** 用“动作输入→识别确认→游戏反馈→进度保存”串起完整体验；对识别误触、断线和重复事件设计状态处理。 [项目详情](https://github.com/liuyumeng821/star-journey) · [演示视频](https://github.com/liuyumeng821/star-journey/releases/download/demo-video-v1/star-journey-demo.mp4) · [产品 PPT](https://github.com/liuyumeng821/star-journey/blob/main/docs/starbound-presentation.pptx) · [角色与场景概念图](https://github.com/liuyumeng821/star-journey#视觉与概念图)
 
 ### 02 · Beauty Twin
 
@@ -37,11 +37,11 @@
 
 ### 03 · ChemFlow AI 化工流程模拟与评估平台
 
-*仓库与封面正在同步。*
+<a href="https://github.com/liuyumeng821/chemflow-ai"><img src="https://raw.githubusercontent.com/liuyumeng821/chemflow-ai/main/docs/chemflow-cover.png" alt="ChemFlow 项目封面" width="620"></a>
 
 **一句话定位：** 面向化工工程学习者和方案设计者，把工艺任务、流程模拟、经济与安全评估组织到可追溯的工作台，减少跨工具整理和复核成本。
 
-**产品设计重点：** 将复杂工程问题拆成有输入、产出、来源和人工确认的步骤，让用户看清“已计算”“待验证”和“需要判断”的边界。本人担任项目负责人；答辩材料标注 NJUChem 团队。 项目仓库与答辩 PPT 正在同步
+**产品设计重点：** 将复杂工程问题拆成有输入、产出、来源和人工确认的步骤，让用户看清“已计算”“待验证”和“需要判断”的边界。本人担任项目负责人；答辩材料标注 NJUChem 团队。 [项目详情](https://github.com/liuyumeng821/chemflow-ai) · [答辩 PPT](https://github.com/liuyumeng821/chemflow-ai/blob/main/docs/chemflow-presentation.pptx)
 
 ### 04 · 暗语森林 WhisperWood
 
@@ -68,4 +68,3 @@
 - **边界意识：** 区分真实在线体验、参赛演示、教学模型、规划功能和未验收的设备/模型链路，不虚构用户数据或效果指标。
 
 本作品集既可用于产品经理实习投递，也可用于展示 AI 产品实践。项目的完成度以各仓库 README 和验证记录为准。
-
